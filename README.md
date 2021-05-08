@@ -22,7 +22,8 @@ Author: **Joan Njoki**
 * Numpy
 ---
 ## Project Description
->The provided dataset is a daily aggregation, by date and postal code, of the number of events on the Autolib network (car-sharing and recharging).
+> Carrying out a hypothesis test using blue car as the variable. The dataset used in this hypothesis is from the Autolib network that has a daily aggregation, according to date and postal code.
+
 ---
 ## Featured Notebooks
 >Google Collaboratory Notebook
